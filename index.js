@@ -31,6 +31,7 @@ const questions = [
         message: 'What is this project licensed under?',
         name: 'license',
         choices: [
+            "ISC",
             "MIT",
             "APACHE 2.0",
             "GPL 3.0",
